@@ -1,12 +1,8 @@
 body {
 	padding: 32px;
 	padding-top: 10px;
-	
-	background-image:  url("bg_circles_top.png");
-	background-repeat: no-repeat;
-	background-position: top;
+
 	background-color: #eeeeee;
-	background-size: 100%;
 }
 
 .navbar{
